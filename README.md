@@ -18,6 +18,7 @@ A simple web page for yyour daily dose of cute pup pictures!
 [Click here](#) to see deployed app!
 
 ## Obsticales
+- Getting the app images to appear next to the link
 
 ## Future goals
 - Being able to pic a specific breed for random pics!
