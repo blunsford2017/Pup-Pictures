@@ -1,7 +1,23 @@
-Title, 
+# Pup Pictures
 
-description, 
+A simple web page for yyour daily dose of cute pup pictures! 
 
-technologies, 
+## Technologies used:
+- HTML 5
+- CSS 3
+- JavaScript
+- jQuery 
+- Google Fonts
+- jQuery Modal
+- Dog API
 
-future goals
+## Screen Shots
+![wireframe](./img/Wireframe.png)
+
+## Getting Started
+[Click here](#) to see deployed app!
+
+## Obsticales
+
+## Future goals
+- Being able to pic a specific breed for random pics!
