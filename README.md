@@ -19,7 +19,7 @@ A simple web page for yyour daily dose of cute pup pictures!
 
 ## Obsticales
 - ~~Getting the app images to appear next to the link.~~ FIXED!
-- Last two links for APPS not fully working.
+- ~~Last two links for APPS not fully working.~~ FIXED!
 
 ## Future goals
 - Being able to pic a specific breed for random pics!
