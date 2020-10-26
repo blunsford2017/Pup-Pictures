@@ -1,17 +1,16 @@
 /* Google Fonts Extra-light 200 italic */
 @import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@1,200&display=swap');
 
-
+/* General Formatting */
 * {
+    box-sizing: border-box;
     margin: 0px;
     background-color: #7aac41;
+    min-height: 100vh;
 }
 
-/* Header Title */
-.title {
-    color: rebeccapurple;
-}
-
-.subtitle {
-    color: #0483ff;
+body {
+    font-family: helvetica;
+    display: flex;
+    flex-direction: column;
 }
