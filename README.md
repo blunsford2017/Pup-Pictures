@@ -8,8 +8,11 @@ A simple web page for yyour daily dose of cute pup pictures!
 - JavaScript
 - jQuery 
 - Google Fonts
-- jQuery Modal
 - Dog API
+- Dog Town: Pet Shop Game, Care & Play with Dog APP
+- DogWorld 3D: My Puppy APP
+- DogHotel APP
+- TamaDog! - AR Tamagotchi Game APP
 
 ## Screen Shots
 ![wireframe](./img/Wireframe.png)
