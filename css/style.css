@@ -5,12 +5,24 @@
 * {
     box-sizing: border-box;
     margin: 0px;
-    background-color: #7aac41;
-    min-height: 100vh;
 }
 
 body {
-    font-family: helvetica;
     display: flex;
+    margin: 5px;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #7aac41;
+}
+
+/* Title and Sub-Title */
+header {
+    color: rebeccapurple;
+    text-align: center;
+}
+
+/* Random Pic Button */
+.random {
+    
 }
