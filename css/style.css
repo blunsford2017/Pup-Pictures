@@ -38,8 +38,9 @@ h1 {
 /* Random Pic Button */
 .random {
     text-align: center;
-    padding: 30px 0 30px 0;
+    padding: 30px 30px 30px 30px;
     color: darkmagenta;
+    border: 5px solid white;
 }
 
 /* Other Section */
