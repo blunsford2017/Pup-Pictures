@@ -16,13 +16,56 @@ body {
     background-color: #7aac41;
 }
 
+h3 {
+    color: darkmagenta;
+}
+
+h4 {
+    color: black;
+}
+
 /* Title and Sub-Title */
 header {
-    color: rebeccapurple;
+    color: white;
+    padding: 30px 0 30px 0;
     text-align: center;
+}
+
+h1 {
+    color: darkmagenta;
 }
 
 /* Random Pic Button */
 .random {
-    
+    text-align: center;
+    padding: 30px 0 30px 0;
+    color: darkmagenta;
+}
+
+/* Other Section */
+.other {
+    text-align: center;
+    padding: 30px 0 30px 0;
+    color: white;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+/* Other: Real */
+.real {
+    padding: 30px 0 30px 0;
+}
+
+.have{
+    padding: 30px 0 30px 0;
+}
+
+/* Other virtual */
+.virtual {
+    padding: 30px 0 30px 0;
+}
+
+ul {
+    list-style: none;
 }
