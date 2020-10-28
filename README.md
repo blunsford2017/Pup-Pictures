@@ -23,7 +23,7 @@ A simple web page for yyour daily dose of cute pup pictures!
 ## Obsticales
 - ~~Getting the app images to appear next to the link.~~ FIXED!
 - ~~Last two links for APPS not fully working.~~ FIXED!
-- Change API to specific breed and getit to pull up just the picture not link.
+- ~~Change API to specific breed and getit to pull up just the picture not link.~~ FIXED!
 
 ## Future goals
-- Being able to pic a specific breed for random pics!
+- ~~Being able to pic a specific breed for random pics!~~ UPDATED!
