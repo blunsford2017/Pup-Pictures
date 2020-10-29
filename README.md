@@ -18,7 +18,7 @@ A simple web page for yyour daily dose of cute pup pictures!
 ![wireframe](./img/Wireframe.png)
 
 ## Getting Started
-[Click here](#) to see deployed app!
+[Click here](https://pup-pictures.netlify.app/) to see deployed app!
 
 ## Obsticales
 - ~~Getting the app images to appear next to the link.~~ FIXED!
