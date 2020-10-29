@@ -16,6 +16,18 @@ A simple web page for yyour daily dose of cute pup pictures!
 
 ## Screen Shots
 ![wireframe](./img/Wireframe.png)
+- Original Design
+![Full](./img/Full.png)
+- Full Site
+![Pick](./img/Pup-pick.png)
+- Where you pick your pup
+![List](./img/List.png)
+- Pull down menu for breed list
+![Real](./img/Real-pup-section.png)
+- Where you can get some real pup love
+![App](./img/App-section.png)
+- Virtual pup love
+
 
 ## Getting Started
 [Click here](https://pup-pictures.netlify.app/) to see deployed app!
