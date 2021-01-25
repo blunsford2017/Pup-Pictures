@@ -1,6 +1,6 @@
 # Pup Pictures
 
-A simple web page for yyour daily dose of cute pup pictures! 
+A simple web page for your daily dose of cute pup pictures! 
 
 ## Technologies used:
 - HTML 5
@@ -13,6 +13,7 @@ A simple web page for yyour daily dose of cute pup pictures!
 - DogWorld 3D: My Puppy APP
 - DogHotel APP
 - TamaDog! - AR Tamagotchi Game APP
+- Netlify
 
 ## Screen Shots
 ![wireframe](./img/Wireframe.png)
